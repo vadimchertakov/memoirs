@@ -13,11 +13,11 @@
 Text attributes *italic*, **bold**,
 `monospace`, ~~strikethrough~~ .
 
-Shopping list:
+Список для покупок:
 
-  * apples
-  * oranges
-  * pears
+  * яблоки
+  * апельсины
+  * груши
 
 Numbered list:
 
